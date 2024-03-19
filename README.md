@@ -1,4 +1,4 @@
-<h1 align="center"><b><i>I'm <span style="color: #ffbc05">Grow-XD</span></b></i>​</h1>
+<h1 align="center"><b><i>I'm <span style="color: #ffbc05">Rishabh Gupta</span></b></i>​</h1>
 <h3 align="center"><i>I'm an experienced programmer, and passionate about coding. I'm constantly pushing my limits forward and trying to learn new technologies.</i></h3>
 <br>
 
